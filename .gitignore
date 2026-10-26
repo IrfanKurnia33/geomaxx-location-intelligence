@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+test-results/
+playwright-report/
+artifacts/
+*.tsbuildinfo
+.vercel/
+.agents/
+.hallmark/
+skills-lock.json
+THIRD_PARTY_NOTICES.md
+docs/*
+!docs/high-fidelity-design/
