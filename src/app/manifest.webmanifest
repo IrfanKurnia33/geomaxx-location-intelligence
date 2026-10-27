@@ -1,0 +1,24 @@
+{
+  "name": "GeoMaxx | Expansion workspace",
+  "short_name": "GeoMaxx",
+  "description": "Compare fictional Jakarta minimarket sites and prepare a field-visit brief.",
+  "lang": "en",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fcfdfb",
+  "theme_color": "#1179b6",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
